@@ -1,0 +1,6 @@
+<h1><%= @name %> Index <h1>
+<ul>
+  <% @team.each do |position, player| %>
+    <li><%=position%>: <%=player%></li>
+  <% end %>
+</ul>

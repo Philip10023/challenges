@@ -1,0 +1,8 @@
+<ul>
+  <% @sorted_restaurants.each do |s| %>
+  <li> Restaurant: <%= link_to s.name, restaurant_path(s) %> </li>
+  <% end %>
+</ul>
+
+
+<p> <%= link_to 'Add New Restaurant', new_restaurant_path %> </p>

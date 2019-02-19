@@ -1,0 +1,7 @@
+---
+title: "Dog Closures"
+type: "exercise"
+description: "Using what we know about closures to improve our dog program"
+tags: "javascript"
+ignore:
+- "dog-closures.md"

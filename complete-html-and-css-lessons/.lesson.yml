@@ -1,0 +1,7 @@
+---
+title: "Complete HTML and CSS Lessons"
+type: "article"  # challenge, exercise, article, video
+description: "Please complete the HTML and CSS lesson group."
+tags: "html, css"
+ignore:
+- "complete-html-and-css-lessons.md"

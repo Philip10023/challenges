@@ -1,0 +1,52 @@
+.callout{
+  background-color: #fbeec2;
+  color: #4a4857;
+  border-color: #4a4857;
+  border-style: solid;
+  border-radius: 20px;
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+.row{
+background-color: #fbeec2;
+color: #4a4857;
+border-color: #4a4857;
+border-style: solid;
+border-radius: 20px;
+font-family: 'Baloo Bhaina', cursive;
+
+}
+
+.submit:hover{
+  background-color: #fbeec2;
+  color: #4a4857
+}
+.clear:hover{
+  background-color: #fbeec2;
+  color: #4a4857
+}
+.input{
+  color: #4a4857;
+  font-family: 'Baloo Bhaina', cursive;
+}
+p{
+  color: ##859987;
+  font-family: 'Baloo Bhaina', cursive;
+
+}
+h1{
+  color: #4a4857;
+  font-family: 'Baloo Bhaina', cursive;
+}
+body{
+  background-color: #fbeec2;
+  font-family: 'Baloo Bhaina', cursive;
+}
+h2{
+  color: #4a4857;
+  font-family: 'Baloo Bhaina', cursive;
+}
+button:hover{
+  background-color: #fbeec2;
+  color: #4a4857
+}

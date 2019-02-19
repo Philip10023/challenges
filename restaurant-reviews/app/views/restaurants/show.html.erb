@@ -1,0 +1,25 @@
+
+
+<div>
+<p>Restaurant: <%= @restaurant.name %></p>
+<p>address: <%= @restaurant.address%></p>
+<p>city: <%= @restaurant.city %></p>
+<p>zip-code: <%= @restaurant.zip%></p>
+<% @restaurant.reviews.each do |s| %>
+<ul>
+  <li class = "false">
+    <p> reviews: <%= link_to s.rating, review_path(s) %> </p>
+    <p> Review bodies: <%= s.body %> </p>
+  </li>
+  <% end %>
+</ul>
+
+
+</div>
+
+<p>
+<%= link_to 'Home', root_path %>
+</p>
+
+<p>
+  <%= link_to 'Add a Review', new_restaurant_review_path(@restaurant) %>

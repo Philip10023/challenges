@@ -1,0 +1,7 @@
+- [Career Services Agreement: On Campus - All Locations](https://docs.google.com/document/d/1idOb5KJjpbIuWcuAVn0j_bTjhVlGj4sKpEZDVRvqAB8/edit)
+- [Career Services Grading Rubric (On Campus & Post-Grad)](https://docs.google.com/document/d/1bCumG1FZit3GajOAVhSbgsC4xF4_Rwo8s3AmnA9kuxA/edit)
+- [Career Services Available to Launchers (Endorsed vs. Supported)](https://docs.google.com/document/d/1rdHC9fsAa5lhtjg5oeIcHF8e8Pasm-OsrP5CDbw2Cuk/edit)
+- [SLIDE GUIDE: LinkedIn](https://docs.google.com/presentation/d/1OfLoAtPTJSTwN1r6DGxNfo1PiW2HHNijFVWsxIIMNQw/edit#slide=id.g159e274e3b_0_99)
+- [TIPS: LinkedIn](https://docs.google.com/document/d/1B-Uvi6SzP0boQpqlWwDqwJc9AxPqpiHMasxJudE16lo/edit)
+- [(BOS16) SIGNUP: Career Education](https://docs.google.com/spreadsheets/d/1t1M-qEYl9aeDQ590gOht7wlyqsWvLWWGWBDiav9DLAY/edit#gid=2106115660)
+- [(BOS16) TIMELINE: Career Education (Students)](https://docs.google.com/document/d/1NCn6gs1ZcF7TVj6TOjv76wb0sEIVjGBk5w92P4Ee-ac/edit) 

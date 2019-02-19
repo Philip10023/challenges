@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Groceries</title>
+  </head>
+
+  <body>
+    <h1>Grocery-List</h1>
+    <%@thelist.each do |name|%>
+    <li><h3><%= name %></h3></li>
+    <%end%>
+
+    <form action="/grocery-list" method="post">
+      <label for="Name">Item:</label>
+      <input type="text" id="Name" name="Name">
+
+      <input type="submit" id="submit" value="Add">
+    </form>
+  </body>
+</html>

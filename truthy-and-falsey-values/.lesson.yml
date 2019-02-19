@@ -1,0 +1,7 @@
+---
+title: "Truthy and Falsey Values"
+type: "article"
+description: "Learn how Ruby can evaluate all objects as either 'true' or 'false'."
+tags: "booleans"
+ignore:
+- "truthy-and-falsey-values.md"

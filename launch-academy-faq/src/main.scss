@@ -1,0 +1,62 @@
+@import 'stylesheets/Colors';
+@import 'stylesheets/App';
+.question {
+background-color: #E5F3F4;
+color: #7D878E;
+cursor: pointer;
+padding: 18px;
+width: auto;
+text-align: left;
+transition: 0.4s;
+}
+.question.hideClass {
+color: #7D878E;
+font-weight: bold;
+border-bottom: 1px solid;
+margin-right: 20px;
+margin-left: 20px;
+}
+.question.showClass {
+font-weight: bold;
+margin-right: 20px;
+margin-left: 20px;
+}
+.question.hideClass:before {
+font-family: 'FontAwesome';
+font-size: 1.5em;
+content: "\f0fe";
+padding: 5px;
+}
+.question.showClass:before {
+font-family: 'FontAwesome';
+font-size: 1.5em;
+content: "\f146";
+padding: 5px;
+color: #84CE15;
+}
+p.hideClass {
+display: none;
+}
+p.showClass {
+padding: 0 18px;
+color: #7D878E;
+background-color: #E5F3F4;
+padding: 18px;
+transition: max-height 0.2s ease-out;
+margin-right: 20px;
+margin-left: 20px;
+border-bottom: 1px solid;
+}
+li {
+list-style: none;
+}
+h1 {
+margin: auto;
+text-align: center;
+color: #37BECC;
+}
+body {
+font-family: "quatro-slab", sans-serif;
+background-color: #E5F3F4;
+display: block;
+}

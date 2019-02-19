@@ -1,0 +1,8 @@
+---
+title: "Lunch at the Turn"
+type: "exercise"
+description: "Use hashes to determine the price of your lunch"
+tags: "hashes"
+ignore:
+- "lunch-at-the-turn.md"
+- "solution.rb"
